@@ -1,6 +1,6 @@
 # creative-bot
 
-for my discord [creative](https://discord.com/invite/ejH2F9D99d) server associated with my YouTube channel [creativeles](https://youtube.com/@creativeless0) used to verify if users are subscribed to a my channel before granting them a role. It uses Google's OAuth system to authenticate users and check their subscriptions.
+my bot for my discord [creative](https://discord.com/invite/ejH2F9D99d) server associated with my YouTube channel [creativeles](https://youtube.com/@creativeless0) used to verify if users are subscribed to my channel before granting them a role. It uses Google's OAuth system to authenticate users and check their subscriptions.
 
 ## Features
 - OAuth-based YouTube subscription verification
