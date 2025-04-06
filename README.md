@@ -1,20 +1,12 @@
-# creative-bot
+# YouTube Subscribe Verify Bot"
 
-my bot for my discord [creative](https://discord.com/invite/ejH2F9D99d) server associated with my YouTube channel [creativeles](https://youtube.com/@creativeless0) used to verify if users are subscribed to my channel before granting them a role. It uses Google's OAuth system to authenticate users and check their subscriptions.
+A Discord bot that allows server admins to verify if users are subscribed to a specific YouTube channel before granting them a role. It utilizes Google's OAuth system to authenticate users and check their YouTube subscriptions.
 
 ## Features
 - OAuth-based YouTube subscription verification
 - Automatically assigns a role to verified users
 - Simple command to start the verification process
 - Flask-powered web server for authentication
-
-## Terms & Privacy 
-If you're using the bot on my discord [creative](https://discord.com/invite/ejH2F9D99d) server, you agree to the following:  
-- [Terms of Service](https://gist.github.com/errtypenull/dfd02f87732749a1802d831a49e448bb)  
-- [Privacy Policy](https://gist.github.com/errtypenull/f959f2877a142ddf66df2b5ef9150d47)  
-
-These only apply if you're using **my hosted version** of the bot. If you're self-hosting, you are responsible for your own terms and policies.
-
 
 ## Requirements
 Make sure you have Python installed. Then, install the necessary dependencies:
@@ -76,5 +68,3 @@ Feel free to submit pull requests or issues to improve the bot.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-
