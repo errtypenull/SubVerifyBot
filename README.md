@@ -1,4 +1,4 @@
-# YouTube Subscribe Verify Bot"
+# YouTube Subscribe Verify Bot
 
 A Discord bot that allows server admins to verify if users are subscribed to a specific YouTube channel before granting them a role. It utilizes Google's OAuth system to authenticate users and check their YouTube subscriptions.
 
